@@ -13,7 +13,7 @@ class bnsautomata {
       ensure  => present,
       command => "cd /etc/puppet ; /usr/bin/git pull; cp -R /etc/puppet/modules /etc/puppet/code",
       user    => 'root',
-      minute  => '*/30',
+      minute  => '*/05',
       require => File['post-hook'],
   }
 }
