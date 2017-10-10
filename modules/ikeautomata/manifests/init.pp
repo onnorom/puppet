@@ -1,10 +1,10 @@
-class bnsautomata {
+class ikeautomata {
 
   notify {"Automating $name":}
   file { 'post-hook':
       ensure  => file,
       path    => '/etc/puppet/.git/hooks/post-merge',
-      source  => 'puppet:///modules/bnsautomata/post-merge',
+      source  => 'puppet:///modules/ikeautomata/post-merge',
       mode    => '0755',
       owner   => 'root',
       group   => 'root',
