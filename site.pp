@@ -1,3 +1,3 @@
 node default {
-    class {"bnsautomata":}
+    class {"ikeautomata":}
 }
