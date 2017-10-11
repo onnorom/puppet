@@ -6,7 +6,7 @@
   "license": "Apache-2.0",
   "source": "https://github.com/onnorom/puppet",
   "project_page": "https://github.com/onnorom/puppet/README.md",
-  "issues_url": "jira.agile.bns/projects/GWMSATP",
+  "issues_url": "",
   "dependencies": [
     {"name":"puppetlabs-stdlib","version_requirement":"4.13.1"},
     {"name":"puppetlabs-java","version_requirement":"2.1.0"},
