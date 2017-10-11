@@ -1,7 +1,7 @@
 {
-  "name": "bnsautomata",
+  "name": "ikeautomata",
   "version": "0.0.1",
-  "author": "oji.nnorom@scotiabank.com",
+  "author": "obiji.nnorom@gmail.com",
   "summary": "Installs software to ensure proper building of masterless projects.",
   "license": "Apache-2.0",
   "source": "https://github.com/onnorom/puppet",
